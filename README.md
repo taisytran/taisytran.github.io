@@ -67,7 +67,23 @@
 
 ## Employment History (Working Experience)
 
-### Automotive Domain (2022 - now)
+### Smart Solar Energy Platform (EU Project) (2023 - now)
+- **Project Description:** Enterprise-scale intelligent solar energy management and optimization solution for one of Europe’s largest energy utilities, enabling real-time monitoring, predictive analytics, and automated control to optimize solar power usage for both residential and commercial sectors.
+- **Company**: FPT Software
+- **Role:** Fullstack Software Engineer
+- **Responsibilities:**
+  - **Backend Development:** Built and maintained backend services using NodeJS (TS.ED) with TypeScript, integrating with AWS Lambda for event-driven processing and scheduled tasks.
+  - **Frontend Development:** Developed and enhanced the web dashboard using React, and implemented mobile features in React Native for real-time solar energy monitoring and control.
+  - **Database Management:** Designed and optimized queries on MySQL and PostgreSQL for storing and analyzing large volumes of energy usage and production data.
+  - **AWS Cloud Integration:** Leveraged AWS services including Lambda, S3, RDS, and CloudWatch to ensure scalable, reliable, and secure cloud operations, IaC with CloudFormation.
+  - **CI/CD:** Configured automated deployment pipelines using GitHub Actions for backend and frontend components.
+  - **Monitoring & Analytics:** Integrated NewRelic for performance monitoring, real-time alerts, and system health tracking.
+  - **Collaboration:** Worked closely with data science teams to integrate predictive models for solar energy optimization into the application’s backend services.
+  - **Security & Compliance:** Ensured that the platform adhered to EU data protection regulations, implementing secure authentication and encrypted data handling.
+- **Technologies:** NodeJS, TypeScript, TS.ED, React, React Native, AWS Lambda, MySQL, PostgreSQL, AWS services, GitHub Actions, NewRelic
+- **Team Size**: 8
+
+### Automotive Domain (2021 - 2023)
 - **Project Description:** An Online Vehicle Exchange application within the Manheim Eco System, featuring comprehensive functions related to vehicles, sellers, and buyers with a smart Bidding Engine. The project involves development and maintenance of a Rails app, implementing infrastructure changes, and optimizing AWS resource performance.
 - **Company**: FPT Software
 - **Role:** Fullstack Software Engineer
@@ -197,3 +213,4 @@
 - Participation in Faculty and School activities like Summer Green Campaign, Spring Volunteer.
 
 > [taitran.tech@gmail.com](mailto:taitran.tech@gmail.com) • 0382014321
+
