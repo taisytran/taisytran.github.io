@@ -2,11 +2,11 @@
 
 |                 |                                                        |
 | --------------- | ------------------------------------------------------ |
-| **Birthday:**   | April 8, 1994                                          |
+| **Birthday:**   | August 4, 1994                                          |
 | **Email:**      | [taitran.tech@gmail.com](mailto:taitran.tech@gmail.com)|
 | **Address:**    | Thu Duc City, HCM                                      |
 | **Phone:**      | 0382014321                                             |
-| **Experience:** | 7+ years                                               |
+| **Experience:** | 10+ years                                               |
 
 ## Education
 
@@ -213,4 +213,5 @@
 - Participation in Faculty and School activities like Summer Green Campaign, Spring Volunteer.
 
 > [taitran.tech@gmail.com](mailto:taitran.tech@gmail.com) • 0382014321
+
 
